@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Greyscale Converter.iml" filepath="$PROJECT_DIR$/Greyscale Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwelveMonkeys/common/common.iml" filepath="$PROJECT_DIR$/TwelveMonkeys/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwelveMonkeys/common/common-image/common-image.iml" filepath="$PROJECT_DIR$/TwelveMonkeys/common/common-image/common-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwelveMonkeys/common/common-io/common-io.iml" filepath="$PROJECT_DIR$/TwelveMonkeys/common/common-io/common-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwelveMonkeys/common/common-lang/common-lang.iml" filepath="$PROJECT_DIR$/TwelveMonkeys/common/common-lang/common-lang.iml" />
     </modules>
   </component>
 </project>
